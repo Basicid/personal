@@ -1,5 +1,311 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c1/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg
-"group-title="Bangla", ZeeBangla
-https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/c/c1/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%A8%E0%A6%A4%E0%A7%81%E0%A6%A8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpeg" group-title="Bangla", ZeeBangla
+https://tvs1.aynaott.com/ZeeBangla/tracks-v1a1/mono.m3u8?hdnts=st=1699027796~exp=1699057796~acl=/ZeeBangla/*~data=103.135.134.80-WEB~hmac=42af2a8cc5388ae57d1d667f78f484aca7c322443123e272386790fe11c92768
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BTV
+https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8?hdnts=st=1699032949~exp=1699062949~acl=/btvhd/*~data=103.135.134.80-WEB~hmac=0b549440b238136509a1b6b94f6de07b9d928b6e09592a3706c92505e89c3105
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BTVworld
+https://tvs1.aynaott.com/btv_world/tracks-v1a1/mono.m3u8?hdnts=st=1699033077~exp=1699063077~acl=/btv_world/*~data=103.135.134.80-WEB~hmac=9304cf0b16cf6f44048034f042dd13dfee21ef214f4a564e184c9f923fa2a41b
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Songsod Bangladesh
+https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8?hdnts=st=1699033106~exp=1699063106~acl=/sangshadtv/*~data=103.135.134.80-WEB~hmac=7b23633a5e83c065d67d93310f8b676d3c4e3672b14bcf133aaf7a4aaf1a5dac
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BTV CTG
+https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8?hdnts=st=1699033134~exp=1699063134~acl=/btvctg/*~data=103.135.134.80-WEB~hmac=9629bf671cc786b31fb1bb056f260ec8527f7cbe86d7a42d0a88d25212d774e2
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BanglaVision
+https://tvs2.aynaott.com/banglavision/tracks-v1a1/index-1699030800-now.m3u8?hdnts=st=1699033176~exp=1699063176~acl=/banglavision/*~data=103.135.134.80-WEB~hmac=73c25e27500ede6b1d7d994c4561cea71d261df43352e05c90c904e230a610d5
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Channel i
+https://tvs2.aynaott.com/channeli/tracks-v1a1/index-1699030800-now.m3u8?hdnts=st=1699033213~exp=1699063213~acl=/channeli/*~data=103.135.134.80-WEB~hmac=06d9bcaf37e65c034fb4fa50487eda56970076868b2f2c79f5e03ccdbd5d7ef5
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", ETV Bangladesh
+https://tvs1.aynaott.com/etv/tracks-v1a1/mono.m3u8?hdnts=st=1699033244~exp=1699063244~acl=/etv/*~data=103.135.134.80-WEB~hmac=59b06a9284cc0d6e7da7259be340e04e8f0ac8f5970666acaf645a3f37761f23
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Ntv
+https://tvs2.aynaott.com/ntv/tracks-v1a1/index-1699030800-now.m3u8?hdnts=st=1699033268~exp=1699063268~acl=/ntv/*~data=103.135.134.80-WEB~hmac=44403dd3f6ba15e4d1a8606455909ff1c4395b1dda0e6164d4d8b365a1dff7d6
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", ATN Bangla
+https://tvs2.aynaott.com/atnbangla/tracks-v1a1/index-1699030800-now.m3u8?hdnts=st=1699033299~exp=1699063299~acl=/atnbangla/*~data=103.135.134.80-WEB~hmac=224837526695a4c7e7aba1bd226bb4b1ed9db516bbedad5197df56ba952b7805
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Boishakhi
+https://tvs1.aynaott.com/boishakhitv/index.m3u8?hdnts=st=1699033329~exp=1699063329~acl=/boishakhitv/*~data=103.135.134.80-WEB~hmac=e892135f6773c7b84d659bd42cf7e828309320b567c47a1f67d706bf737f299b
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Masranga
+https://tvs1.aynaott.com/maasrangatv/index.m3u8?hdnts=st=1699033496~exp=1699063496~acl=/maasrangatv/*~data=103.135.134.80-WEB~hmac=f7c5b07c06c02a7d897e8faf776bb46910e457ce6a04e1ec412fe65ac9045bad
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Desh tv
+https://tvs1.aynaott.com/deshtv/index.m3u8?hdnts=st=1699033530~exp=1699063530~acl=/deshtv/*~data=103.135.134.80-WEB~hmac=f5dd59e9f6b8e4e784c34b6a476206255d22d4a02f9012824be09a80dc58366c
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", MyTv
+https://tvs1.aynaott.com/mytv/index.m3u8?hdnts=st=1699033552~exp=1699063552~acl=/mytv/*~data=103.135.134.80-WEB~hmac=51fdf1a6258f1f3618349d9bf632331dbc7703829aa2055c95f5b808183c597d
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", ATN News
+https://tvs1.aynaott.com/atnnews/index.m3u8?hdnts=st=1699033593~exp=1699063593~acl=/atnnews/*~data=103.135.134.80-WEB~hmac=7b5bff828c474bf8d67ef997799dd1723d6fa44a73e76d14ae13ed5f8caa002e
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", MohonaTv
+https://tvs1.aynaott.com/mohonatv/index.m3u8?hdnts=st=1699033622~exp=1699063622~acl=/mohonatv/*~data=103.135.134.80-WEB~hmac=c71ed628977c2e0dea698536476aa941fa9227e2e05443e493fe929a4296343d
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BijoyTv
+https://tvs1.aynaott.com/bijoytv/index.m3u8?hdnts=st=1699033644~exp=1699063644~acl=/bijoytv/*~data=103.135.134.80-WEB~hmac=a3d93cbcfebddaa7a91efb5dac6220eb58b755239779e81c17e22d9ce88b2d4d
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Somoy News
+https://tvs1.aynaott.com/somoytv/index.m3u8?hdnts=st=1699033667~exp=1699063667~acl=/somoytv/*~data=103.135.134.80-WEB~hmac=13cb2b913528b5fff7d6dff1ab27c15aa93d62ad6d58f1ea7bfa185399ed9f12
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Channel 9
+https://tvs1.aynaott.com/channel9/index.m3u8?hdnts=st=1699033699~exp=1699063699~acl=/channel9/*~data=103.135.134.80-WEB~hmac=a2f6c208fb1a982424d48b2664aa126b6a0110ed6d050b07fbef9a2e656cd20e
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Channel 24
+https://tvs1.aynaott.com/channel24/index.m3u8?hdnts=st=1699033721~exp=1699063721~acl=/channel24/*~data=103.135.134.80-WEB~hmac=1f864b106bdc8c0fbae4bac6827aee643207e07dbad37eca621faceb9fa8d730
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", GanBangla
+https://tvs1.aynaott.com/gaanbangla/index.m3u8?hdnts=st=1699033746~exp=1699063746~acl=/gaanbangla/*~data=103.135.134.80-WEB~hmac=3b7224f6b839c62588b941f87dc04adc9767a854ab4f07cc28f5fa599ff25915
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Ekattor News
+https://tvs1.aynaott.com/ekattorbdtv/index.m3u8?hdnts=st=1699033765~exp=1699063765~acl=/ekattorbdtv/*~data=103.135.134.80-WEB~hmac=01cc0559154134266f1a8247de900e7b8ec43ccbb9987673cb5761115c08bcf6
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Asian Tv
+https://tvs1.aynaott.com/asiantv/index.m3u8?hdnts=st=1699033794~exp=1699063794~acl=/asiantv/*~data=103.135.134.80-WEB~hmac=14df8ef4fe7510452d46480c52b4ad4d534275aa5aa9ba040cf4f7a560cab059
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", SA TV
+https://tvs1.aynaott.com/satv/index.m3u8?hdnts=st=1699033823~exp=1699063823~acl=/satv/*~data=103.135.134.80-WEB~hmac=ffdd81aa85f21cf17f5885577244ab33707cc093faa1694f91087babf5f62d59
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Jamuna Tv
+https://tvs1.aynaott.com/jamunatv/index.m3u8?hdnts=st=1699033843~exp=1699063843~acl=/jamunatv/*~data=103.135.134.80-WEB~hmac=73f3ab42b7aacb7206ac8c36f0adae24b2e3bf6463f325e1802aff192bc39481
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", DBC News
+https://tvs1.aynaott.com/dbcnews/index.m3u8?hdnts=st=1699033871~exp=1699063871~acl=/dbcnews/*~data=103.135.134.80-WEB~hmac=b25f36d71aba9db1876607f0df8d763a2f606f57230827f356197cd883bb5211
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", News24
+https://tvs1.aynaott.com/news24/index.m3u8?hdnts=st=1699033897~exp=1699063897~acl=/news24/*~data=103.135.134.80-WEB~hmac=65229bf158a8329ba118635e04b99439cb5db4fd1d344a99d13fc587ddca4ba9
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Bangla tv
+https://tvs1.aynaott.com/banglatv/index.m3u8?hdnts=st=1699033918~exp=1699063918~acl=/banglatv/*~data=103.135.134.80-WEB~hmac=e75493f28ce26b7950b000594d87b1f07b52534f70b6f6c31b6e448061c74fc9
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Nexus TV
+https://tvs1.aynaott.com/nexustv/index.m3u8?hdnts=st=1699033939~exp=1699063939~acl=/nexustv/*~data=103.135.134.80-WEB~hmac=64eecde945a1603fddfb03585f1ddcbc4ff1f8afff0ea1fb44a4babb200e9f35
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Anondo TV
+https://tvs1.aynaott.com/anandatv/index.m3u8?hdnts=st=1699033971~exp=1699063971~acl=/anandatv/*~data=103.135.134.80-WEB~hmac=904882005c1e96392dd6b58d3e473d59e75fba367c54415195c3187f657daede
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Global tv
+https://tvs1.aynaott.com/globaltvhd/index.m3u8?hdnts=st=1699033990~exp=1699063990~acl=/globaltvhd/*~data=103.135.134.80-WEB~hmac=0bbc7332508503cd4b84aacf913f635342664ff56e269a4c6d7644933cb0bab6
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", GreenTV
+https://tvs1.aynaott.com/greentv/index.m3u8?hdnts=st=1699034014~exp=1699064014~acl=/greentv/*~data=103.135.134.80-WEB~hmac=831b13a543642762e68b2b9dbf7d5a0e9acd1cc3e8b688ae45beca76447319cb
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Duronto TV Cartoon
+https://tvs1.aynaott.com/durontotv/index.m3u8?hdnts=st=1699034042~exp=1699064042~acl=/durontotv/*~data=103.135.134.80-WEB~hmac=618514eadf299ea976ea1c661da8b1a0ab1d986675139deff8ad5f0c566a82eb
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sangeet Bangla
+https://tvs1.aynaott.com/SangeetBangla/index.m3u8?hdnts=st=1699034069~exp=1699064069~acl=/SangeetBangla/*~data=103.135.134.80-WEB~hmac=9c8302029f8dfc5d78efdc1ee7dec4ccbc8afce069106f3775f01ca956c294c2
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", B4u Music
+https://tvs1.aynaott.com/b4umusic/index.m3u8?hdnts=st=1699034152~exp=1699064152~acl=/b4umusic/*~data=103.135.134.80-WEB~hmac=a1088ea57df24f7fff5f9f9c2af5d3740538c8b547d8927f60a2af6e8524c040
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", History tv 
+https://tvs2.aynaott.com/historyen/index.m3u8?hdnts=st=1699034176~exp=1699064176~acl=/historyen/*~data=103.135.134.80-WEB~hmac=7e85e4d08781f0e6161ae95b8c21a88003873c269ea499e2d8027c90a2c6f538
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Discovery Science
+https://tvs1.aynaott.com/discovery_science/index.m3u8?hdnts=st=1699034253~exp=1699064253~acl=/discovery_science/*~data=103.135.134.80-WEB~hmac=1eb7f260975be0788f398dd963aea2f594bb20a669a02bf5790cd82e43d77461
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Animal Planet
+https://tvs1.aynaott.com/animal_planet_hd/index.m3u8?hdnts=st=1699034294~exp=1699064294~acl=/animal_planet_hd/*~data=103.135.134.80-WEB~hmac=e791ad4ef3818fe257d9413f6588473af9310e4a79233b9c4820fd1db638097c
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Investigation Discovery
+https://tvs1.aynaott.com/id_hd_source/index.m3u8?hdnts=st=1699034318~exp=1699064318~acl=/id_hd_source/*~data=103.135.134.80-WEB~hmac=f51b6cd2dab0e6cd0fe9c880289218031eea3e9e797b63c957892b9a56374c9a
+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", TLC
+https://tvs1.aynaott.com/tlc_hd/index.m3u8?hdnts=st=1699034349~exp=1699064349~acl=/tlc_hd/*~data=103.135.134.80-WEB~hmac=e35ea795de9164a645265970298bcdf1225393a012f39f65f88a1eaf9f138241
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Discovery
+https://tvs1.aynaott.com/discovery_hd/index.m3u8?hdnts=st=1699034367~exp=1699064367~acl=/discovery_hd/*~data=103.135.134.80-WEB~hmac=d114f0dd24a13c18d2f9ae014601fe44e06aff6fee8ae71a2b27080a0aaa0764
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Aljajira
+https://tvs1.aynaott.com/aljazeera/index.m3u8?hdnts=st=1699034394~exp=1699064394~acl=/aljazeera/*~data=103.135.134.80-WEB~hmac=beb9b778cd6ce0b009216d215adbb9334c9c9662d3ace6de9d53a5931ef5cf29
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", DW
+https://tvs1.aynaott.com/dwnews/index.m3u8?hdnts=st=1699034442~exp=1699064442~acl=/dwnews/*~data=103.135.134.80-WEB~hmac=189ee7ba2d0de291f2f80f538911b59d5965f7f2f14cef151a133d34846d15c1
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", NHK World
+https://tvs1.aynaott.com/nhkworld/index.m3u8?hdnts=st=1699034461~exp=1699064461~acl=/nhkworld/*~data=103.135.134.80-WEB~hmac=4ee78f4a979012759053eb936968385a2fd0cc766f1317931fcdce41c65f6bfd
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", TRT WOrld
+https://tvs2.aynaott.com/TRTWorldHD/index.m3u8?hdnts=st=1699034485~exp=1699064485~acl=/TRTWorldHD/*~data=103.135.134.80-WEB~hmac=4330c87ae88adad6ccfdd3ba342d13a9532e7a8cad752714ef85a927bf38f0c0
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", CNN
+https://tvs1.aynaott.com/cnn/index.m3u8?hdnts=st=1699034515~exp=1699064515~acl=/cnn/*~data=103.135.134.80-WEB~hmac=14bb8d9d534393d98fd2f6de6eef0af5b02680893966eeabe486bdf503ab6aac
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", A Sports
+https://tvs1.aynaott.com/asports/index.m3u8?hdnts=st=1699034548~exp=1699064548~acl=/asports/*~data=103.135.134.80-WEB~hmac=1715a505ef91b3001e40bcfa7276e0770e99ba5552a0a7c4301291aa5fddef68
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Aya Cartoon
+https://tvs1.aynaott.com/SonyYay/index.m3u8?hdnts=st=1699034569~exp=1699064569~acl=/SonyYay/*~data=103.135.134.80-WEB~hmac=6184b689c5cee34e4383b38a830e01e1a4266d902234956d5e5c3e955e68a8ab
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Max HD
+https://tvs1.aynaott.com/MaxHD/index.m3u8?hdnts=st=1699034593~exp=1699064593~acl=/MaxHD/*~data=103.135.134.80-WEB~hmac=5d28fa031b4b9b23c76f5f6b3a9ea6c5125d8a6265b0d02472e6e7c571254026
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony BBC Earth
+https://tvs1.aynaott.com/BbcEarth/index.m3u8?hdnts=st=1699034715~exp=1699064715~acl=/BbcEarth/*~data=103.135.134.80-WEB~hmac=65d6236db9f3c4233338bdc818624b89bef4ea177f65a53cee11ca13ef6d6ae1
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony
+https://tvs2.aynaott.com/SonyHD/index-1699034400-now.m3u8?hdnts=st=1699034737~exp=1699064737~acl=/SonyHD/*~data=103.135.134.80-WEB~hmac=23512fa1be2edea15da5edcb41e28d01d186e6212e94c227d34d10a375f7b9e9
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Pix
+https://tvs1.aynaott.com/PixHD/index.m3u8?hdnts=st=1699034757~exp=1699064757~acl=/PixHD/*~data=103.135.134.80-WEB~hmac=facfc31db3939c1673bb908e758eb2e339d54f0743dbe67639872801b1996c81
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony BBC Earth HD
+https://tvs1.aynaott.com/EarthHD/index.m3u8?hdnts=st=1699034777~exp=1699064777~acl=/EarthHD/*~data=103.135.134.80-WEB~hmac=69ce49ce34926d9637a49ed992c525be2bcdd070a30f7881de04942ba424127a
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony SPorts 1
+https://tvs2.aynaott.com/Ten1HD/index-1699034400-now.m3u8?hdnts=st=1699034801~exp=1699064801~acl=/Ten1HD/*~data=103.135.134.80-WEB~hmac=dcc573a237722423bb781d76d476dba1464985447b171b831a8ee6a22d982748
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony sab 1
+https://tvs1.aynaott.com/SabHD/index.m3u8?hdnts=st=1699034828~exp=1699064828~acl=/SabHD/*~data=103.135.134.80-WEB~hmac=c93640b614fd3a75f99469f9c5b41138973da435f400a94fc4e5b6550a8a7a26
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Wah
+https://tvs1.aynaott.com/SonyWah/index.m3u8?hdnts=st=1699034850~exp=1699064850~acl=/SonyWah/*~data=103.135.134.80-WEB~hmac=74eb00cfd6504f98d0348fb755e9285339b79202a490dbaea4f243412b7dfd98
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony sports 3
+https://tvs1.aynaott.com/Ten3HD/index.m3u8?hdnts=st=1699035033~exp=1699065033~acl=/Ten3HD/*~data=103.135.134.80-WEB~hmac=57e700e5248eb1e9f55491fb28b49942c2d6cacc4ae1d745efe43b73225051ce
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony sab
+https://tvs1.aynaott.com/SabSD/index.m3u8?hdnts=st=1699035055~exp=1699065055~acl=/SabSD/*~data=103.135.134.80-WEB~hmac=d803583d9422fc6338c83730e7b3ff88ea830fd242a73bd555b8678601389100
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony sd
+https://tvs1.aynaott.com/SonySD/index.m3u8?hdnts=st=1699035076~exp=1699065076~acl=/SonySD/*~data=103.135.134.80-WEB~hmac=101a734a0b9ad35ad15b67c2617ef766bb5a148c757df8bdeede171243c670a4
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", SOny Max 2
+https://tvs1.aynaott.com/SonyMax2/index.m3u8?hdnts=st=1699035096~exp=1699065096~acl=/SonyMax2/*~data=103.135.134.80-WEB~hmac=fee2cc3fb465d0356cdab835b5f716f72d1080b0b6dbc43473b69d7284045bcf
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Sports 5
+https://tvs1.aynaott.com/SonySix/index.m3u8?hdnts=st=1699035120~exp=1699065120~acl=/SonySix/*~data=103.135.134.80-WEB~hmac=5f75b57737bb959cd75f129ff66565ed04e1ad276ecd069ad006092b7b5fe651
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Sports 1
+https://tvs3.aynaott.com/ten1/index.m3u8?hdnts=st=1699035143~exp=1699065143~acl=/ten1/*~data=103.135.134.80-WEB~hmac=05fe9cdad94f4bf79af8765abd367b31980f7d949e3d32b05fb8bb364d10e42b
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Sports 3
+https://tvs3.aynaott.com/ten3/index.m3u8?hdnts=st=1699035166~exp=1699065166~acl=/ten3/*~data=103.135.134.80-WEB~hmac=66f835f4b703a4e21199bb3a884de833e4fffe0ce5c85e86293a27854d87acdc
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Aath
+https://tvs1.aynaott.com/Sony8/index.m3u8?hdnts=st=1699035197~exp=1699065197~acl=/Sony8/*~data=103.135.134.80-WEB~hmac=a2d99f979629d891cf34226bd76b3248cbfea102572bcc21615a48bc97fd73e7
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Pal
+https://tvs1.aynaott.com/SonyPal/index.m3u8?hdnts=st=1699035219~exp=1699065219~acl=/SonyPal/*~data=103.135.134.80-WEB~hmac=9e62d86cb2e6978495e5fce04a60165a5774bb5c636822aea81779a85cc9ec2a
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Sports 2
+https://tvs1.aynaott.com/SonyTen2/index.m3u8?hdnts=st=1699035238~exp=1699065238~acl=/SonyTen2/*~data=103.135.134.80-WEB~hmac=b378711ac8a6c04d844c74232f82e4b3ae28c09d8de96b0dc1f8c977fbb72a58
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Pix
+https://tvs1.aynaott.com/SonyPix/index.m3u8?hdnts=st=1699035258~exp=1699065258~acl=/SonyPix/*~data=103.135.134.80-WEB~hmac=5a3f1f90767be4a69b686ebba8124e1bcd889b825aa9ced299692f5d6adb3fff
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Max
+https://tvs1.aynaott.com/SetMax/index.m3u8?hdnts=st=1699035280~exp=1699065280~acl=/SetMax/*~data=103.135.134.80-WEB~hmac=b4ef35d1af8bdeca100d53b1d9ce4b4d29839814c090d458c1eb068363106ccc
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Sports 5
+https://tvs2.aynaott.com/SonySixHD/index-1699034400-now.m3u8?hdnts=st=1699035303~exp=1699065303~acl=/SonySixHD/*~data=103.135.134.80-WEB~hmac=e935a4b754105ac43bd2fce88b5146f9c4be8988d71c134334bc1b1893c2f6b9
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sony Sports 5
+https://tvs1.aynaott.com/Ten2HD/index.m3u8?hdnts=st=1699035323~exp=1699065323~acl=/Ten2HD/*~data=103.135.134.80-WEB~hmac=1575027b84d8da72e1cfdb5047a18bd981a590e41fe6e7db05cd721454029887
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", &pictures HD
+https://tvs1.aynaott.com/andpictureshd/index.m3u8?hdnts=st=1699035346~exp=1699065346~acl=/andpictureshd/*~data=103.135.134.80-WEB~hmac=a524d558e1ca0bd581cc4b14b2b42e47f6bc9995907dfe5a52c757d3254c994d
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Zee Bangla
+https://tvs2.aynaott.com/ZeeBanglaHD/index-1699034400-now.m3u8?hdnts=st=1699035383~exp=1699065383~acl=/ZeeBanglaHD/*~data=103.135.134.80-WEB~hmac=8c328c2db8b4f553a78f27f8648ecbf4e97f875b47e99bb23d6457a6314d1a3f
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Zee Tv
+https://tvs2.aynaott.com/ZeeTvHD/index-1699034400-now.m3u8?hdnts=st=1699035404~exp=1699065404~acl=/ZeeTvHD/*~data=103.135.134.80-WEB~hmac=88821dc102db4cc08960a11fbd720080fc3d1830791060bded951e16bee35951
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Zee Cafee
+https://tvs1.aynaott.com/ZeeCafeHD/index.m3u8?hdnts=st=1699035425~exp=1699065425~acl=/ZeeCafeHD/*~data=103.135.134.80-WEB~hmac=bfa68c8f2e668a6d872ead78cc926137e325999a0471276b55b3eff20c9a8320
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Zee 24 Ghonta
+https://tvs1.aynaott.com/zee24/index.m3u8?hdnts=st=1699035446~exp=1699065446~acl=/zee24/*~data=103.135.134.80-WEB~hmac=e4d2e6629cadfe999710ba47cddd89ee6ba51add1bd6daae3e80168811eeaf51
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", ZIng
+https://tvs1.aynaott.com/zing/index.m3u8?hdnts=st=1699035468~exp=1699065468~acl=/zing/*~data=103.135.134.80-WEB~hmac=0860744418d20b5815edf594528e6d8c3d1779fb25e88cf2f589bc28b180c958
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Zee News
+https://tvs1.aynaott.com/zeenews/index.m3u8?hdnts=st=1699035486~exp=1699065486~acl=/zeenews/*~data=103.135.134.80-WEB~hmac=f6cac663ca2d01e34976e0e3074127a426996f6d2804b45680c8938d2fd7f7a3
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", ZeeBolywood
+https://tvs1.aynaott.com/zeebollywood/index.m3u8?hdnts=st=1699035509~exp=1699065509~acl=/zeebollywood/*~data=103.135.134.80-WEB~hmac=d72e7e024069a8dc450efd3db268cb0227290ba3a5a1845f78e3d3175d3d117f
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", &tv 
+https://tvs1.aynaott.com/AndTV/index.m3u8?hdnts=st=1699035531~exp=1699065531~acl=/AndTV/*~data=103.135.134.80-WEB~hmac=b08b139e01a60f9c6b981c34b8f1b92d845cf91f27f17c472994eff1c7d95e71
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Zeecinema hd
+https://tvs1.aynaott.com/ZeeCinemaHD/index.m3u8?hdnts=st=1699035561~exp=1699065561~acl=/ZeeCinemaHD/*~data=103.135.134.80-WEB~hmac=4a5de74dc946991800f9cd80fb6995f617e0a20745eec28d85b0594f22edd2f3
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Zee Bangla
+https://tvs1.aynaott.com/ZeeBangla/index.m3u8?hdnts=st=1699035581~exp=1699065581~acl=/ZeeBangla/*~data=103.135.134.80-WEB~hmac=9708518235be06309de25137ce11e51c8eeca94462707f600b52f3a60b0948cf
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", 9X Jalwa
+https://tvs1.aynaott.com/9xjalwa/index.m3u8?hdnts=st=1699035622~exp=1699065622~acl=/9xjalwa/*~data=103.135.134.80-WEB~hmac=53da975070360c6603666da4d712a0160f791459d611520f1aadaef94742fdf9
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Makkha LIve
+https://tvs1.aynaott.com/qurantv/index.m3u8?hdnts=st=1699035642~exp=1699065642~acl=/qurantv/*~data=103.135.134.80-WEB~hmac=5d40b17c1568a473362270ebdf0d2c0f7573c5f7cab48dc8fa5b5c2497682504
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Madina Live
+https://tvs1.aynaott.com/sunnahtv/index.m3u8?hdnts=st=1699035667~exp=1699065667~acl=/sunnahtv/*~data=103.135.134.80-WEB~hmac=05c538d569141fcf9ee285f64313ac40be3c4dd5a8c3f75fdba666abc2a178a4
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Pitara Tv
+https://tvs3.aynaott.com/pitaara/index.m3u8?hdnts=st=1699035691~exp=1699065691~acl=/pitaara/*~data=103.135.134.80-WEB~hmac=fa9b368573e802de01617e29ff1181478439fd9c45a968dd5855c7972a8823aa
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BEst Action
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/71e88012-d1c5-4b9a-b19c-1286b06d271b/3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Best Thrillar
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/7ae246f9-0270-4bd2-b639-44601ef3dec5/1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Chorono
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott5_sofast/c0c994c5-bfe6-4cb7-994a-64260a3071d1/1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Beani kids
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott5_sofast/e3221fcc-3db5-4759-ba9e-ef1478c8329c_0_HLS/manifest.m3u8?channel_name=%20beanikidstv
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Kunfu
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/9e927eb7-5729-4176-ac4c-a3f8ad762435_0_HLS/manifest.m3u8?channel_name=kungfu+
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Sport Fishing
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/ea8e88dd-90d0-471d-9958-4df61396c098_0_HLS/manifest.m3u8?channel_name=%20sportfishingtv
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Prime Fight
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott5_sofast/313fc62f-0109-43fc-85ab-650abfaa9d12_0_HLS/manifest.m3u8?channel_name=%20primefighthdtv
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Baby First
+https://streams.sofast.tv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/146b5915-64ca-45ce-b53e-0eea46c092cf/3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Color Blind
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott5_sofast/5bd21267-3c07-4732-866f-8cc13ba07203_0_HLS/manifest.m3u8?channel_name=colourblind
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Bollywood 4U
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott5_sofast/9bdb24cb-42c5-4d79-97d2-f4ebf569f7b9_0_HLS/manifest.m3u8?channel_name=%20bollywood4u
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BTV
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BTV
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BTV
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BTV
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BTV
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BTV
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", BTV
